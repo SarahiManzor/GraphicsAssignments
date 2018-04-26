@@ -1,0 +1,26 @@
+﻿  CubeMesh.c
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\cubemesh.c(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\cubemesh.c(49): warning C4305: '=': truncation from 'double' to 'float'
+  main.c
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(177): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(150): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(151): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(152): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(225): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(254): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\main.c(257): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Matrix3D.c
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(629): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(630): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\matrix3d.c(631): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  QuadMesh.c
+  Vector3D.c
+c:\users\manzo\documents\visual studio 2017\projects\assignment2\assignment2\vector3d.c(51): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
+  Assignment2.vcxproj -> C:\Users\manzo\Documents\Visual Studio 2017\Projects\Assignment2\Debug\Assignment2.exe

@@ -1,0 +1,63 @@
+﻿  CubeMesh.cpp
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\cubemesh.cpp(44): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\cubemesh.cpp(49): warning C4305: '=': truncation from 'double' to 'float'
+  CylinderMesh.cpp
+  main.cpp
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(173): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(273): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(274): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(321): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(322): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(324): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(333): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(335): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(336): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(336): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(343): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(345): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(346): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(346): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(361): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(362): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(363): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(365): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(367): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(368): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(384): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(409): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(413): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(416): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(420): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(463): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(465): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(477): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(478): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(478): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(479): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(479): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(480): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(480): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(485): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(490): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(524): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(525): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(592): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\main.cpp(602): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Matrix3D.cpp
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(480): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(481): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(482): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(541): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(542): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(543): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(629): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(630): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\manzo\documents\visual studio 2017\projects\assignment3\assignment3\matrix3d.cpp(631): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  QuadMesh.cpp
+  RGBpixmap.cpp
+  Texture.cpp
+  Vector3D.cpp
+  Generating Code...
+  Assignment3.vcxproj -> C:\Users\manzo\Documents\Visual Studio 2017\Projects\Assignment3\Debug\Assignment3.exe
